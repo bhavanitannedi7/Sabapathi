@@ -20,6 +20,17 @@ private void greensVelacherry() {
 }
 private void greensAnnanagar() {
 	System.out.println("greens Annanagar");
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 }
 public static void main(String[] args) {
@@ -29,6 +40,13 @@ public static void main(String[] args) {
 	G.greensOmr();
 	G.greensTambaram();
 	G.greensVelacherry();
+	
+	
+	System.out.println("saratttttttttttttttt");
+	System.out.println("saratttttttttttttttt");
+	System.out.println("saratttttttttttttttt");
+	System.out.println("saratttttttttttttttt");
+	System.out.println("saratttttttttttttttt");
 }
 }
 
