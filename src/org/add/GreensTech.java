@@ -40,13 +40,21 @@ public static void main(String[] args) {
 	G.greensOmr();
 	G.greensTambaram();
 	G.greensVelacherry();
+
+	System.out.println("saratttttttttttttttt");
+	System.out.println("saratttttttttttttttt");
+	System.out.println("saratttttttttttttttt");
+	System.out.println("saratttttttttttttttt");
+	System.out.println("saratttttttttttttttt");
+	System.out.println("palani added......");
+	System.out.println("palani added......");
+	System.out.println("palani added......");
+	System.out.println("palani added......");
+	System.out.println("palani added......");
 	
 	
-	System.out.println("saratttttttttttttttt");
-	System.out.println("saratttttttttttttttt");
-	System.out.println("saratttttttttttttttt");
-	System.out.println("saratttttttttttttttt");
-	System.out.println("saratttttttttttttttt");
+	
+	
 }
 }
 
